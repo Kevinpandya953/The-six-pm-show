@@ -1,0 +1,235 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap");
+
+.MAIN{
+    display: flex;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.PODCAST{
+    display: flex;
+position: relative;
+width: 1280px;
+height: 3282px;
+
+background: #2E2F36;
+flex-direction: row;
+
+
+}
+
+.navigation{
+    
+position: relative;
+width: 1280px;
+height: 81px;
+left: 0px;
+top: 1px;
+}
+
+.fulllogo{
+    position: absolute;
+width: 270px;
+height: 48px;
+left: 35px;
+top: 17px;
+
+background: #C4C4C4;
+border-radius: 11px;
+}
+
+.events{
+    position: absolute;  
+width: 60px;
+height: 23px;
+left: 894px;
+top: 30px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+
+color: #FFFFFF;
+flex-direction: column;
+
+}
+
+.aboutus{
+    position: absolute; 
+width: 80px;
+height: 23px;
+left: 786px;
+top: 30px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+
+color: #FFFFFF;
+flex-direction: column;
+}
+
+.contactus{
+    position: absolute; 
+width: 97px;
+height: 23px;
+left: 1142px;
+top: 30px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+
+color: #FFFFFF;
+flex-direction: column;
+}
+
+.blog{
+    position: absolute;  
+width: 40px;
+height: 23px;
+left: 1072px;
+top: 30px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+
+color: #FFFFFF;
+flex-direction: column;
+}
+
+.podcast{
+    position: absolute;   
+width: 74px;
+height: 23px;
+left: 978px;
+top: 30px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+
+color: #FFFFFF;
+flex-direction: column;
+}
+
+.home{
+    position: absolute;
+width: 54px;
+height: 23px;
+left: 716px;
+top: 30px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+
+color: #FFFFFF;
+flex-direction: column;
+}
+
+.rectangle1{
+    position: relative;
+    width: 1280px;
+    height: 81px;
+    left: 0px;
+    top: 1px;
+    
+    background: #282B33;
+    border-radius: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.aboutpodcast{
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+width: 1280px;
+height: 1012px;
+left: 0px;
+top: 124px;
+}
+
+.AboutPodcastText{
+    position: absolute;
+width: 963px;
+height: 180px;
+left: 270px;
+top: 735px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 64px;
+line-height: 75px;
+
+color: #000000;
+}
+
+.rectangle31{
+    position: absolute;
+width: 1068px;
+height: 244px;
+left: 212px;
+top: 685px;
+
+background: #386BCD;
+border: 1px solid #386BCD;
+box-sizing: border-box;
+border-radius: 60px;
+}
+
+.ellipse{
+    position: absolute;
+    background: #2E2F36;
+    border-radius: 50%;
+    width: 455px;
+    height: 472px;
+    left: 856px;
+    top: 900px;
+}
+.vector2{
+    position: absolute;
+width: 272px;
+height: 258px;
+left: 1006px;
+top: 878px;
+border-bottom-left-radius: 80px;
+background: #AACFF4;
+}
+
+
+
+.podcastposter{
+    
+position: absolute;
+width: 1280px;
+height: 700px;
+left: 0px;
+top: 124px;
+
+background: #AACFF4;
+}
